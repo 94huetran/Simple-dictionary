@@ -1,0 +1,21 @@
+#container{
+    width: 350px;
+    height: 150px;
+    border: 2px navy solid;
+    margin-left: 40%;
+}
+#search{
+    width: 6em;
+    margin-top: 10px;
+    height: 3em;
+}
+#word{
+    width: 17em;
+    height: 3em;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+h2{
+    color: navy;
+    margin-left: 5px;
+}
